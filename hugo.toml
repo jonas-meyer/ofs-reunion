@@ -1,0 +1,4 @@
+baseURL = 'reunion.jonasmeyerohle.dev'
+languageCode = 'en-us'
+title = 'OFS Reunion 2025'
+theme = "hugo-theme-monochrome"
